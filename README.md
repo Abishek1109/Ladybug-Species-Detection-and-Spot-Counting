@@ -1,0 +1,1 @@
+# Ladybug-Species-Detection-and-Spot-Counting
